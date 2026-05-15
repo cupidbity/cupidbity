@@ -4,7 +4,7 @@
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-*✿ a soft little corner for projects shared on instagram ✿*
+*✿ a soft little corner for projects shared on online ✿*
 
 </div>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-> ⟡ &nbsp;this account hosts **projects from my instagram** ♡  
+> ⟡ &nbsp;this account hosts **projects i've posted** ♡  
 > ⟡ &nbsp;a mix of personal builds, tutorials, and templates you can use  
 > ⟡ &nbsp;all projects have setup instructions in README.md files
 
